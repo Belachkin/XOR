@@ -1,0 +1,10 @@
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\bin\Debug\3lab.exe.config
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\bin\Debug\3lab.exe
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\bin\Debug\3lab.pdb
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\obj\Debug\3lab.csproj.AssemblyReference.cache
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\obj\Debug\3lab.exe
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\obj\Debug\3lab.pdb
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\bin\Debug\nunit.framework.dll
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\bin\Debug\nunitlite.dll
+D:\SHARAGA\02 02 КСЗИ\!4й курс\3 lab\3lab\3lab\bin\Debug\nunit.framework.xml

@@ -1,0 +1,2 @@
+# XOR
+Gamma encryption

@@ -1,5 +1,6 @@
 # XOR
 Gamma encryption
+Шифрование методом гаммирования 
 
 [RU]
 
